@@ -1,2 +1,2 @@
-# Aspose.Imaging-for-JasperReports
-Aspose.Imaging for JasperReports samples &amp; demos
+# Aspose.CAD-for-JasperReports
+Aspose.CAD for JasperReports samples &amp; demos
