@@ -1,2 +1,2 @@
-# Aspose.CAD-for-JasperReports
-Aspose.CAD for JasperReports examples, plugins and showcases
+# Aspose.Imaging-for-JasperReports
+Aspose.Imaging for JasperReports samples &amp; demos
